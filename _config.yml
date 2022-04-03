@@ -25,7 +25,7 @@ description:           >
   Mayo Clinic Orthopedic Research Fellow.
 tagline:               >
   Mayo Clinic Orthopedic Research Fellow.
-  
+
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
@@ -71,13 +71,13 @@ excerpt_separator:     <!--more-->
 # Sidebar image and theme color of the site.
 accent_image:
   background:          center / cover url(/assets/img/sidebar-bg.jpg)
-  overlay:             false
+  overlay:             true
 accent_color:          rgb(0,174,239)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(31,55,75)
+theme_color:           rgb(108, 42, 156)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/config/#changing-fonts>

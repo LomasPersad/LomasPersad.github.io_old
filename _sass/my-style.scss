@@ -51,8 +51,16 @@ applause-button {
 
 .project-date {
   font-weight: var(--font-weight);
+  color: var(--theme-color);
   display: inline;
 }
+
+.project-name {
+  color: var(--theme-color);
+  display: inline;
+}
+
+
 
 // Printing
 

@@ -3,7 +3,7 @@ layout: resume
 title: Resume
 permalink: /resume/
 description: >
-  Hi, I'm DaeIn Lee, SW engineer at Samsung Research.
+  Hi, I'm Lomas Persad, this is my CV.
 hide_description: true
 sidebar: true
 order: 5

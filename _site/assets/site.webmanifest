@@ -4,7 +4,7 @@
   "short_name": "Lomas Persad",
   "description": "Enlightened research. Mayo Clinic Orthopedic Research Fellow.",
   "start_url": "/?utm_source=homescreen",
-  "theme_color": "rgb(108, 42, 156)",
+  "theme_color": "rgb(31,55,75)",
   "background_color": "#fff",
   "orientation": "portrait",
   "display": "minimal-ui",

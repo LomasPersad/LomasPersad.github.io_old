@@ -1,7 +1,7 @@
 # Lomas Persad Homepage 
 
 This is my home page where I keep track of past and current projects!
-please feel free to use what you find is useful!
+Please feel free to use what you find is useful!
 
 
 This site was developed using a guide posted by ['Lazyren'](https://lazyren.github.io/about/)

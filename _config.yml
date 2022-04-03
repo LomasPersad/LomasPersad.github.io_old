@@ -74,6 +74,8 @@ accent_image:
   overlay:             true
 accent_color:          rgb(0,174,239)
 
+accent2_color: rgb(152, 92, 196)
+
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.

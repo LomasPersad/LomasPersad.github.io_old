@@ -2,8 +2,9 @@
 <section>
   <div class="npb">
   <h2 id="work" class="h3 hr-bottom">
-    {{ strings.resume.work | default:"Experience" }}
-    <span class="symbol {{ icons.work | default:'icon-briefcase' }}"></span>
+    <span style="color: var(--accent-color)">{{ strings.resume.work | default:"Experience" }}</span>
+
+    <span class="symbol {{ icons.work | default:'icon-briefcase' }}" style="color: #22a4e0;"></span>
   </h2>
   {% for work in resume.work %}
   <section>
@@ -13,7 +14,7 @@
       typeof="Organization"
       >
       {% if work.startDate.size > 0 %}
-        <p class="faded">
+        <p class="faded" style="color: #985cc4" >
           {% include components/from-to.html from=work.startDate to=work.endDate format=from_to_format %}
         </p>
       {% endif %}

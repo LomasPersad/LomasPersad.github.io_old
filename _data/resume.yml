@@ -62,7 +62,7 @@ volunteer:
   - organization: "SWAHA international"
     position: "Pandit"
     website: "https://www.swahainternational.org/"
-    startDate: "1987-09-05"
+    startDate: "1991-09-05"
     endDate: ""
     summary: "Provide devotional programs as well as community outreach coordinator"
     highlights:
@@ -143,17 +143,27 @@ awards:
     awarder: "Univeristy of the West Indies"
     summary: "* Outstanding academic performance (Mechanical Eningeering)"
 
-Publications:
+publications:
    - name: "Procedures for obtaining Muscle Physiology Parameters during a Gracilis Free-Functioning Muscle Transfer in Adult Patients with Brachial Plexus Injury"
      publisher: "Nature Scientific Reports"
      releaseDate: "2022-03-25"
      website: ""
      summary: "A comprehensive guide for measuring in vivo muscle parameters intraoperatively"
-   - name: "Procedures for obtaining Muscle Physiology Parameters during a Gracilis Free-Functioning Muscle Transfer in Adult Patients with Brachial Plexus Injury"
-     publisher: "Nature Scientific Reports"
-     releaseDate: "2022-03-25"
-     website: ""
-     summary: "A comprehensive guide for measuring in vivo muscle parameters intraoperatively"
+   - name: "In vivo human gracilis whole-muscle passive stress-sarcomere strain relationship"
+     publisher: "Journal of Experimental Biology"
+     releaseDate: "2021-09-01"
+     website: "https://journals.biologists.com/jeb/article/224/17/jeb242722/272026/In-vivo-human-gracilis-whole-muscle-passive-stress"
+     summary: "We measured the passive mechanical properties of intact, living human gracilis muscles (n=11 individuals, 10 male and 1 female, age: 33±12 years, mass: 89±23 kg, height: 177±8 cm)."
+   - name: "Measuring and modeling in vivo human gracilis muscle-tendon unit length"
+     publisher: "Journal of Biomechanics"
+     releaseDate: "2021-10-26"
+     website: "https://www.sciencedirect.com/science/article/abs/pii/S0021929021003717"
+     summary: "This paper describes a method of measuring in vivo gracilis muscle–tendon unit length and presents a comparison of experimental data versus predictions from four musculoskeletal models in OpenSim."
+   - name: "Assessment of performance parameters of a series of five ‘historical’ cricket bat designs"
+     publisher: "Journal of Sports Engineering and Technology"
+     releaseDate: "2016-04-11"
+     website: "https://journals.sagepub.com/doi/abs/10.1177/1754337116638970"
+     summary: "The performance of five different bat designs, from different eras spanning from 1905 to 2013, was assessed to address the question whether the changes in bat design over the years have resulted in a performance advantage to the batsman."
 
 skills:
   - name: "Python"

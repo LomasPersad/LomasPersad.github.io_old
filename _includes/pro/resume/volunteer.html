@@ -2,8 +2,9 @@
 <section>
   <div class="npb">
   <h2 id="volunteer" class="h3 hr-bottom">
-    {{ strings.resume.volunteer | default:"Volunteer" }}
-    <span class="symbol {{ icons.volunteer | default:'icon-earth' }}"></span>
+    <span style="color: var(--accent-color)">{{ strings.resume.volunteer | default:"Volunteer" }}</span>
+
+    <span class="symbol {{ icons.volunteer | default:'icon-earth' }}" style="color: #22a4e0;"></span>
   </h2>
   {% for vol in resume.volunteer %}
   <section class="no-page-break">

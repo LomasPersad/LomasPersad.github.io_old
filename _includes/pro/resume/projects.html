@@ -2,8 +2,9 @@
 <section>
   <div class="npb">
     <h2 id="project" class="h3 hr-bottom">
-      {{ strings.resume.projects | default:"Projects" }}
-      <span class="symbol {{ icons.projects | default:'icon-projects' }}"></span>
+      <span style="color: var(--accent-color)">{{ strings.resume.projects | default:"Projects" }} </span>
+
+      <span class="symbol {{ icons.projects | default:'icon-projects' }}" style="color: #22a4e0;"></span>
     </h2>
     {% for project in resume.projects %}
     <section>

@@ -2,8 +2,9 @@
 <section>
   <div class="npb">
   <h2 id="references" class="h3 hr-bottom">
-    {{ strings.resume.references | default:"References" }}
-    <span class="symbol {{ icons.references | default:'icon-quotes-right' }}"></span>
+    <span style="color: var(--accent-color)">{{ strings.resume.references | default:"References" }} </span>
+
+    <span class="symbol {{ icons.references | default:'icon-quotes-right' }}" style="color: #22a4e0;"></span>
   </h2>
   {% for ref in resume.references %}
     <blockquote class="reference">

@@ -5,7 +5,8 @@ community it's coming along!
 [Hydejack Writing]: https://hydejack.com/docs/writing/
 
 <!--more-->
-
+nice purple #985cc4
+nice blue #22a4e0;
 * this unordered seed list will be replaced by the toc
 {:toc}
 

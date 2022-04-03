@@ -2,14 +2,15 @@
 <section>
   <div class="npb">
   <h2 id="education" class="h3 hr-bottom">
-    {{ strings.resume.education | default:"Education" }}
-    <span class="symbol {{ icons.education | default:'icon-library' }}"></span>
+    <span style="color: var(--accent-color)">{{ strings.resume.education | default:"Education" }} </span>
+
+    <span class="symbol {{ icons.education | default:'icon-library' }}" style="color: #22a4e0;"></span>
   </h2>
   {% for edu in resume.education %}
   <section>
     <header class="{% unless forloop.first %}mt2{% endunless %}">
       {% if edu.certificate %}
-      <p class="faded">
+      <p class="faded" style="color: #985cc4" >
         <time datetime="{{ edu.date | date_to_xmlschema}}">{{ edu.date | date:from_to_format }}</time>
       </p>
       <h3 class="h4 faded">

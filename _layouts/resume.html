@@ -31,12 +31,25 @@ layout: base
     {% include pro/resume/basics.html %}
     {% include pro/resume/profiles.html %}
   </div>
+  <br>
+  <div id="toc_container">
+  <p class="toc_title" ><strong>Skip to a section</strong></p>
+  <ul class="toc_list" style="list-style-type: square;">
+  <li><a href="#work" style="color: #22a4e0;">Experience</a></li>
+  <li><a href="#education" style="color: #22a4e0;">Education</a></li>
+  <li><a href="#project" style="color: #22a4e0;">Projects</a></li>
+  <li><a href="#publications" style="color: #22a4e0;">Publications</a></li>
+  <li><a href="#awards" style="color: #22a4e0;">Awards</a></li>
+  <li><a href="#skills" style="color: #22a4e0;">Skills</a></li>
+  </ul>
+  </div>
 
   <div class="columns {% unless no_third_column %}columns-break{% endunless %}">
     {% assign l_col = page.left_column %}
     {% assign r_col = page.right_column %}
     {% unless l_col %}{% assign l_col = 'work,volunteer,education,awards,publications,references' | split:',' %}{% endunless %}
     {% unless r_col %}{% assign r_col = 'languages,skills,interests' | split:',' %}{% endunless %}
+
 
     <div class="column column-3-5">
       {% for sec in l_col %}

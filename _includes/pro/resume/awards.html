@@ -2,8 +2,9 @@
 <section>
   <div class="npb">
   <h2 id="awards" class="h3 hr-bottom">
-    {{ strings.resume.awards | default:"Awards" }}
-    <span class="symbol {{ icons.awards | default:'icon-trophy' }}"></span>
+    <span style="color: var(--accent-color)">{{ strings.resume.awards | default:"Awards" }}</span>
+
+    <span class="symbol {{ icons.awards | default:'icon-trophy' }}" style="color: #22a4e0;"></span>
   </h2>
   {% for awa in resume.awards %}
   <section>

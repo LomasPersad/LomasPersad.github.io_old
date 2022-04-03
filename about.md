@@ -16,7 +16,7 @@ I am a pandit (hindu priest) of [**SWAHA International**](https://www.swahainter
 > leadership, and development of the general well-being of the national
 > community."
 
-I currently work at Mayo Clinic as a research fellow. I am an *Imperial College London* graduate  and I have a passion for biomechanics research and data visualization.I like to play cricket, soccer, table tennis and I game occasionally!<br>
+I currently work at Mayo Clinic as a research fellow. I am an *Imperial College London* graduate  with a passion for biomechanics research and data visualization.I like to play cricket, soccer, table tennis and I game occasionally!<br>
 Please check my **[CV]** for more details about my academic background.
 
 

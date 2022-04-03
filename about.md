@@ -10,7 +10,7 @@ order: 1
 Hi, I'm **Lomas**. Welcome to my page!<br>
 Originally from Trinidad and Tobago, I earned my ***BSc in Mechanical Engineering*** at the University of the West Indies with first class honors. I was awarded a scholarship to study at Imperial College London,  where I graduated  with  an ***MSc in Advanced Mechanical Engineering***, and I obtained a ***PhD in Biomechanics research***.<br>
 Currently,  I'm  working  in the department of orthopedic surgery  in ***Mayo Clinic, Rochester***, where I collaborate with world-renowned surgeons and researchers who are giants in their fields. We conduct experiments that are unparalleled in the world, and have the potential to radically improve *musculoskeletal models* used today! <br>
-I am a pandit (hindu priest) of [**SWAHA International**](https://www.swahainternational.org/about/), a non-profit hindu organisation based in Trinidad that was created for the purpose of
+I am also a pandit (hindu priest) of [**SWAHA International**](https://www.swahainternational.org/about/), a non-profit hindu organisation based in Trinidad that was created for the purpose of
 
 > "spiritual instruction and guidance, social and cultural direction and
 > leadership, and development of the general well-being of the national

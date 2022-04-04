@@ -6,7 +6,7 @@ description: >
   Hi, I'm Lomas Persad, this is my CV.
 hide_description: true
 sidebar: true
-order: 5
+order: 7
 left_column:
  - work
  - education

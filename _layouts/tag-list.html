@@ -29,7 +29,7 @@ layout: page
   {% assign currentdate = post.date | date:list_group_by %}
   {% if currentdate != date %}
     {% unless forloop.first %}</ul>{% endunless %}
-    <h2 id="{{ list_group_by | slugify }}-{{ currentdate | slugify }}" class="hr" style="color: #22a4e0;>{{ currentdate }}</h2>
+    <h2 id="{{ list_group_by | slugify }}-{{ currentdate | slugify }}" class="hr" >{{ currentdate }}</h2>
     <ul class="related-posts">
     {% assign date = currentdate %}
   {% endif %}

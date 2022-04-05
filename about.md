@@ -16,8 +16,8 @@ I am also a pandit (hindu priest) of [**SWAHA International**](https://www.swaha
 > leadership, and development of the general well-being of the national
 > community."
 
-I currently work at Mayo Clinic as a research fellow. I am an *Imperial College London* graduate  with a passion for biomechanics research and data visualization.I like to play cricket, soccer, table tennis and I game occasionally!<br>
-Please check my **[CV]** for more details about my academic background.
+I am interested in  biomechanics research and data visualization. I like to play cricket, soccer, table tennis and I game occasionally!<br>
+I invite you to learn more about my academic background by checking out my **[CV]**.
 
 
 
@@ -36,12 +36,15 @@ I played for the world famous [King's Road Cricket and Social Club!](https://www
 
 
 
-### <center> Cricket cap presentation </center>
+<!--- ### <center> Cricket cap presentation </center> -->
  ![placeholder](/assets/img/about/lomascap.webp){:.lead width="800" height="100" loading="lazy"}
-### <center>  Great memories at    <a href="https://www.krcsc.co.uk/first-day-lomas-clapped-pitch-hitting-96-kings-road-attck-rips-badgers/" style="text-align:center">KRCSC</a></center>  
+ Cricket cap presentation  
+ {:.figcaption}
+
+<!--- ### <center>  Great memories at    <a href="https://www.krcsc.co.uk/first-day-lomas-clapped-pitch-hitting-96-kings-road-attck-rips-badgers/" style="text-align:center">KRCSC</a></center>   -->
  ![placeholder](/assets/img/about/clap.webp){:.lead width="800" height="100" loading="lazy"}
-Great memories at [KRCSC](https://www.krcsc.co.uk/first-day-lomas-clapped-pitch-hitting-96-kings-road-attck-rips-badgers/)   
-{:.figcaption}
+ Great memories at [KRCSC](https://www.krcsc.co.uk/first-day-lomas-clapped-pitch-hitting-96-kings-road-attck-rips-badgers/)   
+ {:.figcaption}
 
 
 <!--- ![placeholder](/assets/img/about/lomascap.webp)  -->
@@ -70,8 +73,6 @@ Lomas persad is great[^1]
 
 ## An Impressive Portfolio
 A portfolio that's guaranteed to be impressive — no matter what you put into it.
-
-
 
 
 ## Just Markdown

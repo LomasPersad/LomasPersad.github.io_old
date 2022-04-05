@@ -151,6 +151,8 @@ hy-drawer.loaded .sidebar {
 .sidebar-about {
   .avatar {
     margin-bottom: 1.5rem
+    max-width: 200px;
+    border-radius: 0%;
   }
 
   > a.sidebar-title {

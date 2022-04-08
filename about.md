@@ -45,6 +45,9 @@ I played for the world famous [King's Road Cricket and Social Club!](https://www
  ![placeholder](/assets/img/about/clap.webp){:.lead width="400" height="50" loading="lazy"}
  Great memories at [KRCSC](https://www.krcsc.co.uk/first-day-lomas-clapped-pitch-hitting-96-kings-road-attck-rips-badgers/)   
  {:.figcaption}
+ 
+ 
+ ![Half-width image](/assets/img/about/clap.webp){: width="400" height="50"}
 
 
 <!--- ![placeholder](/assets/img/about/lomascap.webp)  -->

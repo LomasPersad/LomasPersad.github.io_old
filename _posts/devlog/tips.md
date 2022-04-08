@@ -4,6 +4,8 @@ community it's coming along!
 [Kramdown Syntax]: https://kramdown.gettalong.org/syntax.html
 [Hydejack Writing]: https://hydejack.com/docs/writing/
 
+https://ianrmedia.unl.edu/resources/rounded-corners-images
+
 <!--more-->
 nice purple #985cc4
 nice blue #22a4e0;

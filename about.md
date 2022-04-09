@@ -47,7 +47,7 @@ I played for the world famous [King's Road Cricket and Social Club!](https://www
  {:.figcaption}
  
  
- ![Half-width image](/assets/img/about/clap.webp){: width="400" height="50"}
+ ![Half-width image](/assets/img/about/clap.webp){: width="400" height="50" style="border-radius:25px}
 
 
 <!--- ![placeholder](/assets/img/about/lomascap.webp)  -->

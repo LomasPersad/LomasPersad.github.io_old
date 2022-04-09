@@ -21,9 +21,9 @@ layout: base
   {% unless nsd %}vocab="http://schema.org/" typeof="CreativeWork" resource="#project"{% endunless %}
   >
   <header>
-    <h1 class="page-title" property="name">{{ project.title }}</h1>
+    <h1 class="page-title" property="name" >{{ project.title }}</h1>
 
-    <p class="post-date heading">
+    <p class="post-date heading" >
       <span class="ellipsis mr1">
         {% if major >= 4 and minor >= 1 %}
           {% assign parent = site.pages | find:"show_collection",project.collection %}
@@ -32,7 +32,7 @@ layout: base
         {% endif %}
 
         {% if parent %}
-          <a href="{{ parent.url | relative_url }}" class="flip-title" property="genre">{{ parent.title }}</a>
+          <a href="{{ parent.url | relative_url }}" class="flip-title" property="genre" >{{ parent.title }}</a>
         {% endif %}
 
         {% unless site.hydejack.hide_dates %}

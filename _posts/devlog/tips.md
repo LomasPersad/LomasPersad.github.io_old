@@ -304,3 +304,93 @@ Markdown:
 | First body part |Second cell | Third cell      | fourth cell    |
 {:.stretch-table}
 ```
+
+# Lomas Persad
+
+Image placeholder
+Lomas1
+LSP
+
+Write up...etc. etc.
+
+
+PDF of resume
+[PDF](https://hydejack.com/assets/Resume.pdf).
+
+Lomas persad is great[^1]
+
+**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+
+
+## An Impressive Portfolio
+A portfolio that's guaranteed to be impressive — no matter what you put into it.
+
+
+## Just Markdown
+Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
+
+
+## Syntax Highlighting -good matlab example
+**Hydejack** features syntax highlighting, powered by [Rouge].
+
+```js
+// file: `example.js`
+document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
+  const supportsCodeHighlights = true; //!!
+});
+```
+
+Code blocks can have a filename and a caption.
+
+
+
+## Features# Lomas Persad
+
+Image placeholder
+Lomas1
+LSP
+
+Write up...etc. etc.
+
+
+PDF of resume
+[PDF](https://hydejack.com/assets/Resume.pdf).
+
+Lomas persad is great[^1]
+
+**Hydejack** started out as a free blogging theme for Jekyll — and continues to be so.
+
+
+## An Impressive Portfolio
+A portfolio that's guaranteed to be impressive — no matter what you put into it.
+
+
+## Just Markdown
+Write all content with Markdown. __Hydejack__ gives you [additional CSS classes](docs/writing.md) to stylize your content, without losing compatibility with other Jekyll themes.
+
+
+## Syntax Highlighting -good matlab example
+**Hydejack** features syntax highlighting, powered by [Rouge].
+
+```js
+// file: `example.js`
+document.querySelector("hy-push-state").addEventListener("hy-push-state-load", () => {
+  const supportsCodeHighlights = true; //!!
+});
+```
+
+my qualifications **PhD**:
+
+* point 1
+* Cover Pages for a stunning fist impression.
+*  Point 2[^2]
+
+[original post]
+
+
+
+
+[^1]: something awesome.
+[^2]: something awesome2.
+
+*[LSP]: First-Last-Invert-Play. A coding technique to achieve performant page transition animations.

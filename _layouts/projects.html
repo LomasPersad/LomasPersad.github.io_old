@@ -22,7 +22,7 @@ layout: page
     {% unless forloop.first %}</div>{% endunless %}
 
     <h2 id="{{ projects_group_by | slugify }}-{{ current_date | slugify }}">{{ current_date }}</h2>
-    <div class="columns {% unless no_third_column %}columns-break{% endunless %}">
+    <div class="columns {% unless no_third_column %}columns-break{% endunless %}" >
     {% assign prev_date = current_date %}
   {% endif %}{% endunless %}
 

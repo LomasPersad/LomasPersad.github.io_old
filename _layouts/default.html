@@ -19,9 +19,9 @@ layout: base
 
 {% assign strings = site.data.strings %}
 
-<article class="page" role="article">
+<article class="page" role="article" >
   <header>
-    <h1 class="page-title">{{ page.title | default:strings.home | default:"Home" }}</h1>
+    <h1 class="page-title" >{{ page.title | default:strings.home | default:"Home" }}</h1>
     {% include components/message.html text=page.description hide=page.hide_description %}
   </header>
 
@@ -45,7 +45,7 @@ layout: base
       {% for page in pages limit:5 %}
         {% if page.layout == 'page' %}
           <li class="h4">
-            <a href="{{ page.url | relative_url }}" class="flip-title">
+            <a href="{{ page.url | relative_url }}" class="flip-title" >
               <span>{{ page.title }}</span>
             </a>
           </li>

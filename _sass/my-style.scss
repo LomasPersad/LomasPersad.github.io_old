@@ -68,7 +68,10 @@ applause-button {
 }
 
 
-
+// testing
+.post-title.flip-project-title {
+   color: rgb(152, 92, 196);
+}
 
 
 // Printing
@@ -90,7 +93,56 @@ img.centered {
   display: block;
   margin-left: auto;
   margin-right: auto;
+  border-radius: 5px;
+
 }
+
+img.zoom{
+  // border-radius: 8px;
+  border-radius: 30px;
+  object-fit: cover;
+  transform: scale(1);
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    transform: scale(1.05);
+}
+
+
+}
+
+img.gallery1 {
+   width: 100%;
+   height: 200px;
+   border-radius: 5px;
+   object-fit: cover;
+   transform: scale(1);
+   transition: all 0.3s ease-in-out;
+   &:hover {
+     transform: scale(1.05);
+ }
+}
+
+img.gallery2 {
+   width: 80%;
+   margin-left: auto;
+   margin-right: auto;
+   border-radius: 5px;
+   object-fit: cover;
+   transform: scale(1);
+   transition: all 0.3s ease-in-out;
+   &:hover {
+     transform: scale(1.05);
+ }
+}
+
+img.gallery3 {
+   width: 50%;
+   display: grid;
+   grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
+   justify-content: center;
+   padding: 4px;
+ }
+
 
 // iframe
 

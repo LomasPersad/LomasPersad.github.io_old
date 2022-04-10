@@ -99,13 +99,13 @@ font_code:             JetBrains Mono, Nanum Gothic Coding, Menlo, Monaco, Conso
 defaults:
   # You can use this to provide a default accent color and background for
   # all pages under a given path:
-  # - scope:
-  #     path:            hyde/
-  #   values:
-  #     accent_color:    rgb(38,139,210)
-  #     accent_image:
-  #       background:    rgb(32,32,32)
-  #       overlay:       false
+  - scope:
+      path:            /_posts
+    values:
+      #accent_color:    rgb(38,139,210)
+      #accent_image:
+        background:    rgb(132,132,132)
+        overlay:       false
 
   # Don't include documents in assets in the sitemap
   - scope:

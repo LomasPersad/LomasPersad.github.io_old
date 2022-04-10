@@ -6,6 +6,14 @@ community it's coming along!
 
 https://ianrmedia.unl.edu/resources/rounded-corners-images
 
+*Maha Upanishad 6.71–75*
+
+
+> “सुधैव कुटुम्बकम| Vasudhaiva Kutumbakam- The entire world is one family.”
+{:.lead}
+
+
+
 <!--more-->
 nice purple #985cc4
 nice blue #22a4e0;
@@ -228,6 +236,8 @@ Markdown:
 ```markdown
 ![Half-width image](https://via.placeholder.com/800x100){: width="400" height="50"}
 ```
+
+![Full-width image](/assets/img/2022-04-02/BG.png){:.lead width="800" height="100" loading="lazy"}
 
 ### Adding image captions
 

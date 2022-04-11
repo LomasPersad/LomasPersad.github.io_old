@@ -25,19 +25,19 @@ Using *COLMAP*'s pipe line we create the sparse cloud. check my next post how we
 #### Set up directory locations
 
 ```bat
-// file: `example.bat`
+ file: `example.bat`
 @echo on
 ::These parameters are specific to computer 
 :: Set colmap directory all the way to and including the bat file.
 set colDir=COLMAP_directory
 set oMVS=OPENMVS_directory
 set workDir=%CD%
-});
+
 ```
 #### run COLMAP 
 
 ```bat
-// 
+
 ::Run the colmap part - reconstructing camera positions + sparse point cloud
 ::extract features
 call %colDir% feature_extractor --database_path database.db --image_path .
@@ -53,7 +53,7 @@ call %colDir% image_undistorter --image_path . --input_path .\sparse\0\ --output
 
 #### run OPENMVS
 ```bat
-// 
+
 ::OpenMVS part - densification, meshing, and texturing.
 ::NEW - OpenMVS now interfaces directly with the colmap folders, rather than having to go through nvm format
 %oMVS%\InterfaceColmap.exe -i %workDir%\myundist -o proj.mvs

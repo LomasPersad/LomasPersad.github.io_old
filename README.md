@@ -1,6 +1,6 @@
 # Lomas Persad Homepage
 
-<a href="https://lomaspersad.github.io/"><img alt="Website Status" src="https://img.shields.io/website?down_message=offline&style=flat-square&up_color=green&up_message=online&url=https%3A%2F%2Flomaspersad.github.io%2F"/></a>
+<a href="https://lomaspersad.github.io/"><img alt="Website Status" src="https://img.shields.io/website?down_message=offline&style=flat-square&up_color=brightgreen&up_message=online&url=https%3A%2F%2Flomaspersad.github.io%2F"/></a>
 
 
 

@@ -1,6 +1,8 @@
 # Lomas Persad Homepage
 
-<a href="https://lomaspersad.github.io/"><img alt="Website Status" src="https://lomaspersad.github.io.svg?down_message=Down&up_message=Online&style=flat-square"/></a>
+<a href="https://lomaspersad.github.io/"><img alt="Website Status" src="https://img.shields.io/website?down_message=offline&style=flat-square&up_color=brightgreen&up_message=online&url=https%3A%2F%2Flomaspersad.github.io%2F"/></a>
+
+
 
 This is my home page where I keep track of past and current projects!
 Please feel free to use what you find is useful!

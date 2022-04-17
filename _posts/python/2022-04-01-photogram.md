@@ -27,14 +27,14 @@ Using *COLMAP*'s pipe line we create the sparse cloud. check my next post how we
 ```bat
  file: `example.bat`
 @echo on
-::These parameters are specific to computer 
+::These parameters are specific to computer
 :: Set colmap directory all the way to and including the bat file.
 set colDir=COLMAP_directory
 set oMVS=OPENMVS_directory
 set workDir=%CD%
 
 ```
-#### run COLMAP 
+#### run COLMAP
 
 ```bat
 
@@ -72,6 +72,7 @@ pause
 ```
 ### Results
 
+<div class="sketchfab-embed-wrapper"> <iframe title="Hanuman Model" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/54d824ef5dc54307b94421a21de90961/embed?ui_theme=dark"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/hanuman-model-54d824ef5dc54307b94421a21de90961?utm_medium=embed&utm_campaign=share-popup&utm_content=54d824ef5dc54307b94421a21de90961" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Hanuman Model </a> by <a href="https://sketchfab.com/LSP7?utm_medium=embed&utm_campaign=share-popup&utm_content=54d824ef5dc54307b94421a21de90961" target="_blank" style="font-weight: bold; color: #1CAAD9;"> LSP7 </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=54d824ef5dc54307b94421a21de90961" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 
 ### Next step

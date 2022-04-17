@@ -1,4 +1,6 @@
-# Lomas Persad Homepage 
+# Lomas Persad Homepage
+
+<a href="https://lomaspersad.github.io/"><img alt="Website Status" src="https://lomaspersad.github.io.svg?down_message=Down&up_message=Online&style=flat-square"/></a>
 
 This is my home page where I keep track of past and current projects!
 Please feel free to use what you find is useful!
@@ -9,5 +11,4 @@ Based on the Hydejack jekyll theme. In order to use Pro version of Hydejack, you
 Please give credit to the author of the **Hydejack**, *[qwtel](https://github.com/qwtel)*.
 
 
-
-
+bundle exec jekyll serve

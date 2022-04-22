@@ -116,40 +116,34 @@ img.zoom{
 
 }
 
-img.gallery1 {
-   width: 100%;
-   height: 200px;
-   border-radius: 5px;
-   object-fit: cover;
-   transform: scale(1);
-   transition: all 0.3s ease-in-out;
-   &:hover {
-     transform: scale(1.05);
- }
-}
+ .expandable {
 
-img.gallery2 {
-   width: 80%;
-   margin-left: auto;
-   margin-right: auto;
-   border-radius: 5px;
-   object-fit: cover;
-   transform: scale(1);
-   transition: all 0.3s ease-in-out;
-   &:hover {
-     transform: scale(1.05);
- }
-}
+     -webkit-border-radius: 50%;
+     -moz-border-radius: 50%;
+     border-radius: 50%;
 
-img.gallery3 {
-   width: 100%;   
-   border-radius: 40px 40px 0 0;
-   display: grid;
-   grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
-   justify-content: center;
-   padding: 4px;
+     -webkit-box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0,0,0,.2);
+     -moz-box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0,0,0,.2);
+     box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0,0,0,.2);
  }
 
+ .container img {
+   -webkit-border-radius: 70%;
+   -moz-border-radius: 70%;
+   border-radius: 60%;
+
+   // -webkit-box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0,0,0,.2);
+   // -moz-box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0,0,0,.2);
+   // box-shadow: 0 0 0 3px #fff, 0 0 0 4px #999, 0 2px 5px 4px rgba(0,0,0,.2);
+   // margin: 100px;
+   transition: transform 0.25s ease;
+   cursor: zoom-in;
+ }
+
+ input[type=checkbox]:checked ~ label > img {
+   transform: scale(1.75);
+   cursor: zoom-out;
+ }
 
 // iframe
 

@@ -231,6 +231,8 @@ Example:
 
 ![Half-width image](https://via.placeholder.com/800x100){: width="400" height="50"}
 
+![Full-width image](/assets/img/2022-04-02/BG.png){:style="display:block; margin-left:auto; margin-right:auto";}
+
 Markdown:
 
 ```markdown

@@ -168,13 +168,13 @@ skills:
     keywords:
       - "Opensource"
       - "Image processing"
-      - "Vizualization"
+      - "Visualization"
   - name: "Matlab"
     level: "Master"
     keywords:
       - "Data management"
       - "Data analysis"
-      - "Vizualization"
+      - "Visualization"
 
   - name: "OpenSim"
     level: "Intermediate"

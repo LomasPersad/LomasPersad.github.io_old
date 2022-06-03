@@ -68,5 +68,6 @@ Blog modified from DaeIn Lee's github.<br>
 
 [game]: https://steamcommunity.com/profiles/76561198048234604
 [CV]: /resume/
+[experiments]: https://discoverysedge.mayo.edu/2022/05/26/scientists-surgeons-team-up-to-improve-orthopedic-surgery/
 
 *[Blog]: based on the jekyll theme Hydejack.

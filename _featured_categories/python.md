@@ -1,7 +1,7 @@
 ---
 layout: list
 type: category
-title: Python Projects
+title: Projects
 slug: python
 sidebar: true
 order: 4

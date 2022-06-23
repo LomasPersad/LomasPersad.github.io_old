@@ -188,7 +188,11 @@ skills:
       - "Photoshop"
       - "Premiere"
   - name: "LabVIEW"
-    level: "Junior"
+    level: "Intermediate"
+  - name: "R"
+    level: "Intermediate"
+  - name: "SQL"
+    level: "Junior"  
 
 interests:
   - name: "Activity"

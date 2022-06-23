@@ -189,10 +189,18 @@ skills:
       - "Premiere"
   - name: "LabVIEW"
     level: "Intermediate"
+    keywords:
+      - "Data capture"
   - name: "R"
     level: "Intermediate"
+    keywords:
+      - "Data cleaning"
+      - "Statistics"
+      - "Data Visualisatoin"
   - name: "SQL"
-    level: "Junior"  
+    level: "Junior"
+    keywords:
+      - "Database management"
 
 interests:
   - name: "Activity"

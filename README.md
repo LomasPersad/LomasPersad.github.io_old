@@ -14,3 +14,4 @@ Please give credit to the author of the **Hydejack**, *[qwtel](https://github.co
 
 
 bundle exec jekyll serve
+test
